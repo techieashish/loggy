@@ -1,5 +1,5 @@
 # loggy
-Live Streaming of Logs to multiple hosts
+Streaming of Logs
 
 # Main Logic
 
